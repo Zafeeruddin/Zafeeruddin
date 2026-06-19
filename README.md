@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="mailto:your-email@example.com">Email</a> •
-  <a href="https://github.com/your-username">GitHub</a>
+  <a href="www.linkedin.com/in/mohammed-zafeer-3b5a82265">LinkedIn</a> •
+  <a href="mailto:mohammed.xafeer@gmail.com">Email</a> •
+  <a href="https://github.com/Zafeeruddin">GitHub</a>
 </p>
 
 ---
