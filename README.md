@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://zafeer.dev"><img src="https://img.shields.io/badge/portfolio-zafeer.dev-2f7d1e?style=flat-square" alt="Portfolio"></a>
-  <a href="https://zafeer.dev/resume.pdf"><img src="https://img.shields.io/badge/resume-pdf-12160f?style=flat-square" alt="Resume"></a>
+  <a href="https://zafeer.dev/resume"><img src="https://img.shields.io/badge/resume-view_%2F_download-12160f?style=flat-square" alt="Resume"></a>
   <a href="https://www.linkedin.com/in/mohammed-zafeer-3b5a82265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohammed.xafeer@gmail.com"><img src="https://img.shields.io/badge/email-mohammed.xafeer%40gmail.com-555?style=flat-square" alt="Email"></a>
   <a href="https://x.com/itsZafeer"><img src="https://img.shields.io/badge/@itsZafeer-000?style=flat-square&logo=x" alt="X"></a>
