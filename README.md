@@ -45,7 +45,7 @@ status:
 - **Notebooks and cameras.** Jupyter runs as StatefulSets, each on its own subdomain, and idle notebooks shut down automatically. A MediaMTX RTSP → HLS service handles thousands of cameras.
 - **Device fleet.** A deploy-manager service runs Ansible from k8s Jobs to onboard, patch and deboard GPU machines, reporting a 7-phase lifecycle over Kafka.
 - **Delivery.** Jenkins builds images and bumps tags in an infra repo that Argo CD syncs to dev, prod and EPM. Every secret lives in Vault, and a self-hosted Harbor registry serves 8 teams.
-- **Platform setup.** Moved every service into k8s, cutting full setup from **3 days to 20 min**. Built HA NGINX on Keepalived and migrated from InfluxDB to ClickHouse.
+- **Platform setup.** Moved every service into k8s, cutting full platform deploy from **5 days to 2 hours**. Built HA NGINX on Keepalived and migrated from InfluxDB to ClickHouse.
 - **Client deployments.** Air-gapped RAG and meeting-bot platforms for a Saudi ministry. An approval-gated Alibaba + Azure DevOps setup for Expro that saves **SAR 300K/yr**. Multi-VPC ACK for Monsha'at.
 
 <details>
